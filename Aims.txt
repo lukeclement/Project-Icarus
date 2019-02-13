@@ -1,1 +1,6 @@
-hi
+1. Develop program that takes in telemetry data and outputs possible landing sights.
+	-Data input:
+		•Altitude
+		•Heading
+		•Velocities (3D)
+		•GPS data
